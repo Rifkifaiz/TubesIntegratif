@@ -1,3 +1,3 @@
 # Phase 1
 ## Install Laravel
-!(https://github.com/Rifkifaiz/TubesIntegratif/blob/main/XXAMPP.png)
+![2](https://github.com/Rifkifaiz/TubesIntegratif/blob/main/XXAMPP.png)
